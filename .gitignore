@@ -1,0 +1,11 @@
+/CsvReaderBenchmarks/bin
+/CsvReaderBenchmarks/obj
+/CsvReaderDemo/bin
+/CsvReaderDemo/obj
+/CsvReaderDemoWeb/bin
+/CsvReaderDemoWeb/obj
+/LumenWorks.Framework.IO/bin
+/LumenWorks.Framework.IO/obj
+/LumenWorks.Framework.Tests.Unit/bin
+/LumenWorks.Framework.Tests.Unit/obj
+/*.suo
